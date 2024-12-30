@@ -158,6 +158,7 @@ html {
   scroll-behavior: smooth; }
 
 body {
+  padding-left: 20px !important;
   font-size: var(--font-size-b1);
   line-height: var(--line-height-b1);
   -webkit-font-smoothing: antialiased;
