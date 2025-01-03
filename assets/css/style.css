@@ -10486,12 +10486,12 @@ div#featured-project-carousel {
     .rn-nav-list {
       margin-top: 0; } }
   .rn-nav-list .nav-item {
-    flex-basis: 25%;
+    flex-basis: 20%;
     text-align: center;
     margin-top: 0; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .rn-nav-list .nav-item {
-        flex-basis: 25%; } }
+        flex-basis: 20%; } }
     @media only screen and (max-width: 767px) {
       .rn-nav-list .nav-item {
         flex-basis: 100%; } }
@@ -10504,7 +10504,7 @@ div#featured-project-carousel {
     .rn-nav-list .nav-item .nav-link {
       color: #c4cfde;
       font-family: var(--font-primary);
-      padding: 30px 10px;
+      padding: 15px 5px;
       text-transform: capitalize;
       font-size: var(--font-size-b1);
       font-weight: 500;
@@ -10515,12 +10515,11 @@ div#featured-project-carousel {
       border-radius: 10px; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .rn-nav-list .nav-item .nav-link {
-          padding: 25px 7px;
+          padding: 12px 4px;
           font-size: 14px; } }
       @media only screen and (max-width: 767px) {
         .rn-nav-list .nav-item .nav-link {
-          padding: 30px 6px;
-          padding: 18px 6px;
+          padding: 8px 2px;
           font-size: 13px; } }
       @media only screen and (max-width: 767px) {
         .rn-nav-list .nav-item .nav-link {
